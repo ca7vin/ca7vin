@@ -6,8 +6,10 @@
   <h2>About Me</h2>
 
 <a href="https://www.linkedin.com/in/calvin-van-der-ghinst-283611bb/">
-  <img align="left" alt="Calvin Van der Ghinst LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Calvin Van der Ghinst LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+  
+  <hr>
   <p>I finally found a job that I love...
 
 That's what I tell myself today, as I come to the end of my training as a developer at Molengeek.
