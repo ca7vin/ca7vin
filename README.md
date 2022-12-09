@@ -20,7 +20,7 @@ Today, I finally know where I'm going and I'm thirsty to learn and evolve.</p>
 </div>
 
 <div align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca7vin&theme=transparent&hide_langs_below=8" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca7vin&theme=transparent&hide_langs_below=8" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos</small>
   <br />
