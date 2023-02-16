@@ -25,11 +25,6 @@ Today, I finally know where I'm going and I'm thirsty to learn and evolve.</p>
   <br />
 </div>
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca7vin&theme=transparent&hide_langs_below=8" alt="Top language used in my repos" />
-  <br />
-  <br />
-</div>
 
 <div align="center">
   <img width="600" src="https://github-readme-stats.vercel.app/api?username=ca7vin&show_icons=true&theme=transparent" alt="Github Stats" />
